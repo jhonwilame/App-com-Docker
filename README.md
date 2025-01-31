@@ -5,9 +5,8 @@
 ```
 docker compose exec server bash -c 'npx sequelize db:migrate'
 
-Arquitetura da aplicação 
-
-![img jpg](https://github.com/user-attachments/assets/4c47083c-5175-4ee3-994b-4ee9b47fdf77)
+Desafio da Aula 1 do Bootcamp Imersão AWS Henrylle Maia concluído! ✅
+Aprendi a configurar ambiente AWS com Docker e EC2, usar o SSM para conexão segura via CloudShell, executar scripts para configurar a instância EC2 tudo de forma automatizada e adicionar permissões para ECR e ECS.
 
 
 
