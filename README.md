@@ -6,7 +6,8 @@
 docker compose exec server bash -c 'npx sequelize db:migrate'
 
 Arquitetura da aplicação 
-![image](https://github.com/user-attachments/assets/ada0ca45-f4f6-4221-a280-1f51a72d7db3)
+[Diagramas Bootcamp Imersão AWS com Henrylle Maia - Aula1-imagens-4](https://github.com/user-attachments/assets/9f846c7d-57dd-4768-aba6-3191b4d46c13)
+
 
 
 
